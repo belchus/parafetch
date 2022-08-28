@@ -1,8 +1,12 @@
 {
-    "posts": [
+    "pulseras": [
       {
         "id": 1,
-        "title": "hello"
+        "titulo": "Pulsera de perlas"
+      },
+      {
+        "id": 2,
+        "titulo": "Pulsera astronauta"
       }
     ],
     "profile": {
