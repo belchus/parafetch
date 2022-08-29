@@ -2,14 +2,54 @@
     "pulseras": [
       {
         "id": 1,
-        "titulo": "Pulsera de perlas"
+        "titulo": "Pulsera de perlas",
+        "precio": "$800",
+        "descripcion":"Pulsera con perlas rosas"
       },
       {
         "id": 2,
-        "titulo": "Pulsera astronauta"
+        "titulo": "Pulsera Fleco",
+        "precio": "$600",
+        "descripcion":"Pulsera con perlas rosas"
+      },
+      {
+        "id": 3,
+        "titulo": "Pulsera Luna",
+        "precio": "$900",
+        "descripcion":"Pulsera con perlas rosas"
+      },
+      {
+        "id": 4,
+        "titulo": "Pulsera cruz",
+        "precio": "$809",
+        "descripcion":"Pulsera con perlas rosas"
+      },
+      {
+        "id": 5,
+        "titulo": "Pulsera Marina",
+        "precio": "$690",
+        "descripcion":"Pulsera con perlas rosas"
+      },
+      {
+        "id": 6,
+        "titulo": "Pulsera del Mar",
+        "precio": "$990",
+        "descripcion":"Pulsera con perlas rosas"
+      },
+      {
+        "id": 7,
+        "titulo": "Pulsera Astronauta",
+        "precio": "$900",
+        "descripcion":"Pulsera con perlas rosas"
+      },
+      {
+        "id": 8,
+        "titulo": "Pulsera Mariposa",
+        "precio": "$890",
+        "descripcion":"Pulsera con perlas rosas"
       }
     ],
     "profile": {
-      "name": "typicode"
+      "name": "belchus"
     }
   }
