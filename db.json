@@ -1,5 +1,13 @@
 {
     "pulseras": [
+      
+      {
+        "imgSrc":"../img/pulsera5.jpg",
+        "id": 5,
+        "titulo": "Pulsera Marina",
+        "precio": "$690",
+        "descripcion":"Pulsera con perlas rosas"
+      },
         {
           "imgSrc":"../img/pulsera6.jpg",
           "id": 6,
