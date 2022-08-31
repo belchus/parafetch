@@ -1,6 +1,20 @@
 {
     "pulseras": [
-      {
+        {
+          "imgSrc":"../img/pulsera6.jpg",
+          "id": 6,
+          "titulo": "Pulsera del Mar",
+          "precio": "$990",
+          "descripcion":"Pulsera con perlas rosas"
+        },
+        {
+          "imgSrc":"../img/pulsera7.webp",
+          "id": 7,
+          "titulo": "Pulsera Astronauta",
+          "precio": "$900",
+          "descripcion":"Pulsera con perlas rosas"
+        },
+        {
         "imgSrc":"../img/pulsera8.jpg",
         "id": 8,
         "titulo": "Pulsera Mariposa",
