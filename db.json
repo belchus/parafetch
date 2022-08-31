@@ -1,55 +1,6 @@
 {
     "pulseras": [
       {
-        "imgSrc":"https://d3ugyf2ht6aenh.cloudfront.net/stores/679/075/products/cad669ad-e8de-44af-accd-773825364185_nube-69101c24893fa76b2b15976787856140-1024-1024.jpg",
-        "id": 1,
-        "titulo": "Pulsera de perlas",
-        "precio": "$800",
-        "descripcion":"Pulsera con perlas rosas"
-      },
-      {
-        "imgSrc":"../img/pulsera2.jpg",
-        "id": 2,
-        "titulo": "Pulsera Fleco",
-        "precio": "$600",
-        "descripcion":"Pulsera con perlas rosas"
-      },
-      {
-        "imgSrc":"../img/pulsera3.jpg",
-        "id": 3,
-        "titulo": "Pulsera Luna",
-        "precio": "$900",
-        "descripcion":"Pulsera con perlas rosas"
-      },
-      {
-        "imgSrc":"../img/pulsera4.jpg",
-        "id": 4,
-        "titulo": "Pulsera cruz",
-        "precio": "$809",
-        "descripcion":"Pulsera con perlas rosas"
-      },
-      {
-        "imgSrc":"../img/pulsera5.jpg",
-        "id": 5,
-        "titulo": "Pulsera Marina",
-        "precio": "$690",
-        "descripcion":"Pulsera con perlas rosas"
-      },
-      {
-        "imgSrc":"../img/pulsera6.jpg",
-        "id": 6,
-        "titulo": "Pulsera del Mar",
-        "precio": "$990",
-        "descripcion":"Pulsera con perlas rosas"
-      },
-      {
-        "imgSrc":"../img/pulsera7.webp",
-        "id": 7,
-        "titulo": "Pulsera Astronauta",
-        "precio": "$900",
-        "descripcion":"Pulsera con perlas rosas"
-      },
-      {
         "imgSrc":"../img/pulsera8.jpg",
         "id": 8,
         "titulo": "Pulsera Mariposa",
