@@ -116,6 +116,64 @@
         "descripcion":"Pulsera con perlas rosas"
       }
     ], 
+    "aros": [
+      {
+        "imgSrc":"../img/aro1.jpg",
+        "id": 21,
+        "titulo": "Aros Tejidos Azules",
+        "precio": "$800",
+        "descripcion":"Pulsera con perlas rosas"
+      },
+      {
+        "imgSrc":"../img/aro2.jpg",
+        "id": 22,
+        "titulo": "Aros Tejidos Naranjas",
+        "precio": "$600",
+        "descripcion":"Pulsera con perlas rosas"
+      },
+      {
+        "imgSrc":"../img/aro3.jpg",
+        "id": 23,
+        "titulo": "Aros Alas",
+        "precio": "$900",
+        "descripcion":"Pulsera con perlas rosas"
+      },
+      {
+        "imgSrc":"../img/aro4.jpg",
+        "id": 24,
+        "titulo": "Aros Brillos Doble",
+        "precio": "$809",
+        "descripcion":"Pulsera con perlas rosas"
+      },
+      {
+        "imgSrc":"../img/aro5.jpg",
+        "id": 25,
+        "titulo": "Aros Espiral",
+        "precio": "$690",
+        "descripcion":"Pulsera con perlas rosas"
+      },
+        {
+          "imgSrc":"../img/aro6.jpg",
+          "id": 26,
+          "titulo": "Aros Brillos",
+          "precio": "$990",
+          "descripcion":"Pulsera con perlas rosas"
+        },
+        {
+          "imgSrc":"../img/aro7.jpg",
+          "id": 27,
+          "titulo": "Aros Atrapasueños",
+          "precio": "$900",
+          "descripcion":"Pulsera con perlas rosas"
+        },
+        {
+        "imgSrc":"../img/aro8.jpg",
+        "id": 28,
+        "titulo": "Aros Corazon",
+        "precio": "$890",
+        "descripcion":"Pulsera con perlas rosas"
+      }
+    ],
 
     "profile": {
       "name": "belchus"
