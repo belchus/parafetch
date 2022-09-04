@@ -1,4 +1,63 @@
 {
+    "cadenitas": [
+      {
+        "imgSrc":"../img/cadenita1.jpg",
+        "id": 11,
+        "titulo": "Cadenita Brujula",
+        "precio": "$800",
+        "descripcion":"Pulsera con perlas rosas"
+      },
+      {
+        "imgSrc":"../img/cadenita2.jpg",
+        "id": 12,
+        "titulo": "Cadenita Estrella ",
+        "precio": "$600",
+        "descripcion":"Pulsera con perlas rosas"
+      },
+      {
+        "imgSrc":"../img/cadenita3.avif",
+        "id": 13,
+        "titulo": "Cadenita Estrella doble",
+        "precio": "$900",
+        "descripcion":"Pulsera con perlas rosas"
+      },
+      {
+        "imgSrc":"../img/cadenita4.jpg",
+        "id": 14,
+        "titulo": "Cadenita Brillos",
+        "precio": "$809",
+        "descripcion":"Pulsera con perlas rosas"
+      },
+      {
+        "imgSrc":"../img/cadenita5.jpg",
+        "id": 15,
+        "titulo": "Cadenita de Perlas",
+        "precio": "$690",
+        "descripcion":"Pulsera con perlas rosas"
+      },
+        {
+          "imgSrc":"../img/cadenita6.jpg",
+          "id": 16,
+          "titulo": "Cadenita Corazon",
+          "precio": "$990",
+          "descripcion":"Pulsera con perlas rosas"
+        },
+        {
+          "imgSrc":"../img/cadenita7.jpg",
+          "id": 17,
+          "titulo": "Cadenita Rosa",
+          "precio": "$900",
+          "descripcion":"Pulsera con perlas rosas"
+        },
+        {
+        "imgSrc":"../img/cadenita8.jpg",
+        "id": 18,
+        "titulo": "Cadenita de Mar",
+        "precio": "$890",
+        "descripcion":"Pulsera con perlas rosas"
+      }
+    ],
+
     "pulseras": [
       {
         "imgSrc":"https://d3ugyf2ht6aenh.cloudfront.net/stores/679/075/products/cad669ad-e8de-44af-accd-773825364185_nube-69101c24893fa76b2b15976787856140-1024-1024.jpg",
@@ -56,7 +115,8 @@
         "precio": "$890",
         "descripcion":"Pulsera con perlas rosas"
       }
-    ],
+    ], 
+
     "profile": {
       "name": "belchus"
     }
