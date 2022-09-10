@@ -114,7 +114,15 @@
         "titulo": "Pulsera Mariposa",
         "precio": "$890",
         "descripcion":"Pulsera con perlas rosas"
+      }, 
+      {
+        "imgSrc":"../img/pulsera9.jpg",
+        "id": 9,
+        "titulo": "Pulsera Piedras Turquesa",
+        "precio": "$1200",
+        "descripcion":"Pulsera de piedras color turquesa"
       }
+
     ], 
     "aros": [
       {
@@ -173,6 +181,7 @@
         "precio": "$890",
         "descripcion":"Pulsera con perlas rosas"
       }
+      
     ],
 
     "profile": {
