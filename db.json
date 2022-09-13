@@ -55,6 +55,13 @@
         "titulo": "Cadenita de Mar",
         "precio": "$890",
         "descripcion":"Pulsera con perlas rosas"
+      },
+      {
+        "imgSrc":"../img/cadenita9.jpg",
+        "id": 19,
+        "titulo": "Cadenita de Mar",
+        "precio": "$890",
+        "descripcion":"Pulsera con perlas rosas"
       }
     ],
 
@@ -177,6 +184,13 @@
         {
         "imgSrc":"../img/aro8.jpg",
         "id": 28,
+        "titulo": "Aros Corazon",
+        "precio": "$890",
+        "descripcion":"Pulsera con perlas rosas"
+      },
+      {
+        "imgSrc":"../img/aro9.webp",
+        "id": 29,
         "titulo": "Aros Corazon",
         "precio": "$890",
         "descripcion":"Pulsera con perlas rosas"
