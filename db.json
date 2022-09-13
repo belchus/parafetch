@@ -135,65 +135,65 @@
       {
         "imgSrc":"../img/aro1.jpg",
         "id": 21,
-        "titulo": "Aros Tejidos Azules",
-        "precio": "$800",
-        "descripcion":"Pulsera con perlas rosas"
+        "titulo": "Aros Blue",
+        "precio": "$900",
+        "descripcion":"Aros tejidos azules con brillos"
       },
       {
         "imgSrc":"../img/aro2.jpg",
         "id": 22,
-        "titulo": "Aros Tejidos Naranjas",
-        "precio": "$600",
-        "descripcion":"Pulsera con perlas rosas"
+        "titulo": "Aros Orange",
+        "precio": "$900",
+        "descripcion":"Aros tejidos naranjas con detalles blancos"
       },
       {
         "imgSrc":"../img/aro3.jpg",
         "id": 23,
-        "titulo": "Aros Alas",
+        "titulo": "Aros Angel",
         "precio": "$900",
-        "descripcion":"Pulsera con perlas rosas"
+        "descripcion":"Aros de alas de angel"
       },
       {
         "imgSrc":"../img/aro4.jpg",
         "id": 24,
-        "titulo": "Aros Brillos Doble",
-        "precio": "$809",
-        "descripcion":"Pulsera con perlas rosas"
+        "titulo": "Aros Red",
+        "precio": "$2090",
+        "descripcion":"Aros de corazon rojos bañados en oro"
       },
       {
         "imgSrc":"../img/aro5.jpg",
         "id": 25,
-        "titulo": "Aros Espiral",
-        "precio": "$690",
-        "descripcion":"Pulsera con perlas rosas"
+        "titulo": "Aros Flo",
+        "precio": "$890",
+        "descripcion":"Aros con corona de flores"
       },
         {
-          "imgSrc":"../img/aro6.jpg",
+          "imgSrc":"../img/aro6.webp",
           "id": 26,
-          "titulo": "Aros Brillos",
-          "precio": "$990",
-          "descripcion":"Pulsera con perlas rosas"
+          "titulo": "Aros Fly",
+          "precio": "$1090",
+          "descripcion":"Aros de mariposa con cuarzo violeta"
         },
         {
           "imgSrc":"../img/aro7.jpg",
           "id": 27,
           "titulo": "Aros Atrapasueños",
-          "precio": "$900",
-          "descripcion":"Pulsera con perlas rosas"
+          "precio": "$990",
+          "descripcion":"Aros de acero quirurgico con atrapasueños"
         },
         {
         "imgSrc":"../img/aro8.jpg",
         "id": 28,
-        "titulo": "Aros Corazon",
-        "precio": "$890",
-        "descripcion":"Pulsera con perlas rosas"
+        "titulo": "Aros Heart",
+        "precio": "$1390",
+        "descripcion":"Aros de corazon de acero quirurgico"
       },
       {
-        "imgSrc":"../img/aro9.webp",
+        "imgSrc":"../img/aros9.webp",
         "id": 29,
-        "titulo": "Aros Corazon",
-        "precio": "$890",
-        "descripcion":"Pulsera con perlas rosas"
+        "titulo": "Aros Black",
+        "precio": "$1000",
+        "descripcion":"Aros de brillos negros"
       }
       
     ],
