@@ -3,63 +3,63 @@
       {
         "imgSrc":"../img/cadenita1.jpg",
         "id": 11,
-        "titulo": "Cadenita ",
+        "titulo": "Cadenita Way",
         "precio": "$2200",
         "descripcion":"Dije de brujula bañada en oro"
       },
       {
         "imgSrc":"../img/cadenita2.jpg",
         "id": 12,
-        "titulo": "Cadenita  ",
+        "titulo": "Cadenita Sea ",
         "precio": "$1500",
         "descripcion":"Dije estrella de mar de acero quirurgico"
       },
       {
         "imgSrc":"../img/cadenita3.webp",
         "id": 13,
-        "titulo": "Cadenita ",
+        "titulo": "Cadenita Tree ",
         "precio": "$1200",
         "descripcion":"Dije de hoja seca bañada en oro"
       },
       {
         "imgSrc":"../img/cadenita4.jpg",
         "id": 14,
-        "titulo": "Cadenita Corazon",
+        "titulo": "Cadenita Black",
         "precio": "$999",
         "descripcion":"Dije de corazon negro"
       },
       {
         "imgSrc":"../img/cadenita5.jpg",
         "id": 15,
-        "titulo": "Cadenita de Perlas",
+        "titulo": "Cadenita Pearls",
         "precio": "$1690",
         "descripcion":"Dije de perla bañada en oro"
       },
         {
           "imgSrc":"../img/cadenita6.jpg",
           "id": 16,
-          "titulo": "Cadenita Corazon",
+          "titulo": "Cadenita Heart",
           "precio": "$2990",
           "descripcion":"Dije de corazon que se abre bañado en oro"
         },
         {
           "imgSrc":"../img/cadenita7.jpg",
           "id": 17,
-          "titulo": "Cadenita Rosa",
+          "titulo": "Cadenita Rose",
           "precio": "$1900",
           "descripcion":"Dije de rosa de acero quirurgico"
         },
         {
         "imgSrc":"../img/cadenita8.jpg",
         "id": 18,
-        "titulo": "Cadenita de Mar",
+        "titulo": "Cadenita Clam",
         "precio": "$3090",
         "descripcion":"Dije de almeja bañado en oro"
       },
       {
         "imgSrc":"../img/cadenita9.jpg",
         "id": 19,
-        "titulo": "Cadenita Girasol",
+        "titulo": "Cadenita Sunflower",
         "precio": "$1290",
         "descripcion":"Dije de girasol de acero quirurgico"
       }
@@ -69,65 +69,65 @@
       {
         "imgSrc":"https://d3ugyf2ht6aenh.cloudfront.net/stores/679/075/products/cad669ad-e8de-44af-accd-773825364185_nube-69101c24893fa76b2b15976787856140-1024-1024.jpg",
         "id": 1,
-        "titulo": "Pulsera de perlas",
-        "precio": "$800",
-        "descripcion":"Pulsera con perlas rosas"
+        "titulo": "Pulsera Pearl",
+        "precio": "$1000",
+        "descripcion":"Pulsera de perlas"
       },
       {
         "imgSrc":"../img/pulsera2.jpg",
         "id": 2,
-        "titulo": "Pulsera Fleco",
-        "precio": "$600",
-        "descripcion":"Pulsera con perlas rosas"
+        "titulo": "Pulsera Pink",
+        "precio": "$900",
+        "descripcion":"Cuentas de colores pasteles y fleco"
       },
       {
         "imgSrc":"../img/pulsera3.jpg",
         "id": 3,
-        "titulo": "Pulsera Luna",
-        "precio": "$900",
-        "descripcion":"Pulsera con perlas rosas"
+        "titulo": "Pulsera Night",
+        "precio": "$990",
+        "descripcion":"Dijes de luna y estrellas de acero quirurgico"
       },
       {
         "imgSrc":"../img/pulsera4.jpg",
         "id": 4,
-        "titulo": "Pulsera cruz",
-        "precio": "$809",
-        "descripcion":"Pulsera con perlas rosas"
+        "titulo": "Pulsera Daisy",
+        "precio": "$999",
+        "descripcion":"Dijes de margarita de acero quirurgico"
       },
       {
-        "imgSrc":"../img/pulsera5.jpg",
+        "imgSrc":"../img/pulsera5.png",
         "id": 5,
-        "titulo": "Pulsera Marina",
-        "precio": "$690",
-        "descripcion":"Pulsera con perlas rosas"
+        "titulo": "Pulsera Butterfly",
+        "precio": "$1300",
+        "descripcion":"Dije de mariposa azul de acero quirurgico"
       },
         {
           "imgSrc":"../img/pulsera6.jpg",
           "id": 6,
-          "titulo": "Pulsera del Mar",
-          "precio": "$990",
-          "descripcion":"Pulsera con perlas rosas"
+          "titulo": "Pulsera Sea",
+          "precio": "$1090",
+          "descripcion":"Dije de ola de acero quirurgico"
         },
         {
           "imgSrc":"../img/pulsera7.webp",
           "id": 7,
-          "titulo": "Pulsera Astronauta",
-          "precio": "$900",
-          "descripcion":"Pulsera con perlas rosas"
+          "titulo": "Pulsera Astronaut",
+          "precio": "$1400",
+          "descripcion":"Dije de astronauta de acero quirurgico"
         },
         {
         "imgSrc":"../img/pulsera8.jpg",
         "id": 8,
-        "titulo": "Pulsera Mariposa",
-        "precio": "$890",
-        "descripcion":"Pulsera con perlas rosas"
+        "titulo": "Pulsera Heart",
+        "precio": "$999",
+        "descripcion":"Dije de corazon rosa de acero quirurgico"
       }, 
       {
         "imgSrc":"../img/pulsera9.jpg",
         "id": 9,
-        "titulo": "Pulsera Piedras Turquesa",
+        "titulo": "Pulsera Blue",
         "precio": "$1200",
-        "descripcion":"Pulsera de piedras color turquesa"
+        "descripcion":"Dijes de piedras turquesas"
       }
 
     ], 
@@ -163,7 +163,7 @@
       {
         "imgSrc":"../img/aro5.jpg",
         "id": 25,
-        "titulo": "Aros Flo",
+        "titulo": "Aros Flowers",
         "precio": "$890",
         "descripcion":"Aros con corona de flores"
       },
@@ -177,7 +177,7 @@
         {
           "imgSrc":"../img/aro7.jpg",
           "id": 27,
-          "titulo": "Aros Atrapasueños",
+          "titulo": "Aros Dream",
           "precio": "$990",
           "descripcion":"Aros de acero quirurgico con atrapasueños"
         },
